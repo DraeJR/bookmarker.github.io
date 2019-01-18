@@ -1,0 +1,26 @@
+
+
+{
+    
+   "manifest_version": 2,
+  "name": "Bookmarker",
+  "version": "1.0.1",   
+                            
+    
+   "description": "Bookmarker is an app that helps add websites to a list", 
+    
+    "icons": {"128": "bookmark_1_128x128.png"},
+    
+     "browser_action": {"default_icon": "bookmark_19x19.png",
+                    "default_popup":"bm.html" 
+                       },
+   "permissions": ["activeTab"]
+    
+}
+
+
+
+
+
+
+
